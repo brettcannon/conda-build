@@ -39,15 +39,15 @@
 * @chenghlee
 * @conda-bot
 * @dholth
-* @tnabtaf
-* @erykoff
+* @tnabtaf made their first contribution in https://github.com/conda/conda-build/pull/4602
+* @erykoff made their first contribution in https://github.com/conda/conda-build/pull/4603
 * @isuruf
-* @jaimergp
+* @jaimergp made their first contribution in https://github.com/conda/conda-build/pull/4604
 * @jezdez
 * @kenodegard
 * @mariusvniekerk
 * @msarahan
-* @skupr-anaconda
+* @skupr-anaconda made their first contribution in https://github.com/conda/conda-build/pull/4550
 * @pre-commit-ci[bot]
 
 
